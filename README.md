@@ -16,6 +16,8 @@ I am a web developer who loves creating clean and responsive websites using HTML
 
 You can view my portfolio live on GitHub Pages or clone this repository to see the code.
 
-To run the portfolio locally:
+Contact Saurabh Paswan - csesaurabhpaswan
 
-1. Clone the repo:
+Project Link:https://github.com/csesaurabhpaswan/Portfolio
+
+Your site is live at:https://csesaurabhpaswan.github.io/Portfolio/
