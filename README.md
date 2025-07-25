@@ -1,26 +1,21 @@
-Portfolio Website
-A clean and responsive personal portfolio website made using HTML, CSS, and JavaScript.
+# My Personal Portfolio
 
-**Features**
-Clean and modern user interface.
+Welcome to my personal portfolio website. Here you can see my projects, skills, and contact information.
 
-Fully responsive design for mobile, tablet, and desktop screens.
+## About Me
 
-Sections include: Home, About, Skills, Projects, and Contact.
+I am a web developer who loves creating clean and responsive websites using HTML, CSS, and JavaScript. This portfolio shows my work and experience.
 
-Navbar auto-collapses on mobile and opens on menu click.
+## Technologies Used
 
-Easy to update content and images.
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-**Technologies Used**
-HTML – For the structure of the website.
+## How to Use
 
-CSS – For styling and responsive layout.
+You can view my portfolio live on GitHub Pages or clone this repository to see the code.
 
-JavaScript – For interactivity like mobile menu toggle.
+To run the portfolio locally:
 
-**Contact**
-Created by Saurabh Paswan – https://github.com/csesaurabhpaswan
-
-Project Link:https://github.com/csesaurabhpaswan/Portfolio
-Your site is live at:https://csesaurabhpaswan.github.io/Portfolio/
+1. Clone the repo:
